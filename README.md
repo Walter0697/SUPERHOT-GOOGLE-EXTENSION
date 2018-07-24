@@ -9,9 +9,9 @@ https://mailbakery.com/blog/25-wonderful-examples-of-animated-gifs-in-email-mark
 ### Finished
 - pause and start simple gif
 - pause and start youtube video
+- can toggle the functionality instead of enable/disable the extension
 
 ### In progress / might not know how to do:
-- toggle the function in the popup instead of disabling it everytime
 - pause and start css animation
 - make a lovely icon for this extension
 - more possibilities for website to move around
@@ -30,5 +30,5 @@ https://mailbakery.com/blog/25-wonderful-examples-of-animated-gifs-in-email-mark
 - Will do it later 
 
 ### Credit for all the resources:
-https://github.com/buzzfeed/libgif-js   (this is a good library)
-https://stackoverflow.com/questions/46347531/what-is-the-best-way-to-detect-if-an-element-has-a-css-animation-applied
+- https://github.com/buzzfeed/libgif-js   (this is a good library)
+- https://stackoverflow.com/questions/46347531/what-is-the-best-way-to-detect-if-an-element-has-a-css-animation-applied

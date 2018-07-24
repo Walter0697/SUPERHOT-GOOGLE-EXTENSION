@@ -1,12 +1,11 @@
 var active = false;
+var enable = true;
 
 var gifs_array = [];
 var video_array;
 var animation_array = [];
 //set timeout in document
 var timeout;
-
-console.log("testing the extension");
 
 //getting all gif images from the document
 var images = document.querySelectorAll('img[src$=".gif"]');
@@ -33,6 +32,7 @@ for (var i = 0; i < anim_temp.length; i++)
 }
 
 document.onmousemove = function() {
+	console.log("mousemove");
 	timeMove();
 }
 
@@ -42,23 +42,27 @@ document.onscroll = function() {
 
 function timeMove()
 {
-	if (!active)
+	if (enable)
 	{
-		allRun();
-		active = true;
-		clearTimeout(timeout);
-		timeout = setTimeout(function() 
-			{ 
-				active = false;
-				allStop(); 
-			}, 1);
-	}
+		if (!active)
+		{
+			allRun();
+			active = true;
+			clearTimeout(timeout);
+			timeout = setTimeout(function() 
+				{ 
+					active = false;
+					allStop(); 
+				}, 1);
+		}
+	}	
 }
 
 var playState = '-webkit-animation-play-state';
 
 function allRun()
 {
+	console.log("timemove");
 	for (var i = 0; i < gifs_array.length; i++)
 	{
 		gifs_array[i].play();
@@ -111,12 +115,18 @@ function hasCssAnimation(el)
 	return false;
 }
 
-/*
+
 chrome.extension.onMessage.addListener(function(request, sender, sendResponse){
-	active = !active;
-	if (active)
-		allRun();
-	else
-		allStop();
+	if (request.action_message == "trigger")
+	{ 
+		enable = !enable
+
+		if (!enable)
+		{
+			allRun();
+			clearTimeout(timeout);
+		}
+
+		sendResponse({enable: enable});
+	}	
 });
-*/
