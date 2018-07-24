@@ -11,6 +11,7 @@ https://mailbakery.com/blog/25-wonderful-examples-of-animated-gifs-in-email-mark
 - pause and start youtube video
 
 ### In progress / might not know how to do:
+- toggle the function in the popup instead of disabling it everytime
 - pause and start css animation
 - make a lovely icon for this extension
 - more possibilities for website to move around
