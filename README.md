@@ -30,5 +30,5 @@ https://mailbakery.com/blog/25-wonderful-examples-of-animated-gifs-in-email-mark
 - Will do it later 
 
 ### Credit for all the resources:
-https://github.com/buzzfeed/libgif-js   (this is a good library)
-https://stackoverflow.com/questions/46347531/what-is-the-best-way-to-detect-if-an-element-has-a-css-animation-applied
+- https://github.com/buzzfeed/libgif-js   (this is a good library)
+- https://stackoverflow.com/questions/46347531/what-is-the-best-way-to-detect-if-an-element-has-a-css-animation-applied
