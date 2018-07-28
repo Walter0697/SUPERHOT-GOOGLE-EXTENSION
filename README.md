@@ -3,6 +3,9 @@
 - A google extension where TIME MOVES ONLY WHEN YOU MOVE
 - the goal is to find out how to stop the animations in webpage as much as possible
 
+### Download it here for free:
+https://chrome.google.com/webstore/detail/super-hot-extension/clleglenbchkccjkdidjgednoamialjd?hl=en-US&gl=HK
+
 ### Suggestion website to experience
 https://mailbakery.com/blog/25-wonderful-examples-of-animated-gifs-in-email-marketing-templates/
 
