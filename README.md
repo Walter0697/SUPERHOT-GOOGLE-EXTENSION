@@ -29,7 +29,10 @@ https://mailbakery.com/blog/25-wonderful-examples-of-animated-gifs-in-email-mark
 ### Demo:
 - Since loading image of github is a gif, you now have to move in order to watch the other's repo in homepage
 - (SUPER SECURE!)
-![2018-07-28 05:50:55](https://giant.gfycat.com/UnnaturalFlakyEyelashpitviper.gif)
+- ![2018-07-28 05:50:55](https://giant.gfycat.com/UnnaturalFlakyEyelashpitviper.gif)
+- Now you can enjoy the new experience in youtube where you have to move to watch the video
+- ![2018-07-28 05:50:55](https://giant.gfycat.com/EnchantedAggressiveAustraliankelpie.gif)
+- and by the way you can also pause these two gif!
 
 ### Credit for all the resources:
 - https://github.com/buzzfeed/libgif-js   (this is a good library)
