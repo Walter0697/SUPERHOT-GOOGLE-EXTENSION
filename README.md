@@ -31,7 +31,7 @@ https://mailbakery.com/blog/25-wonderful-examples-of-animated-gifs-in-email-mark
 - (SUPER SECURE!)
 - ![2018-07-28 05:50:55](https://giant.gfycat.com/UnnaturalFlakyEyelashpitviper.gif)
 - Now you can enjoy the new experience in youtube where you have to move to watch the video
-- ![2018-07-28 05:55:50](https://giant.gfycat.com/EnchantedAggressiveAustraliankelpie.gif)
+- ![2018-07-28 05:55:50](https://image.ibb.co/ioBaZT/youtube2.gif)
 - and by the way you can also pause these two gif!
 
 ### Credit for all the resources:
