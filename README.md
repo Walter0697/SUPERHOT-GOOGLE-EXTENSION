@@ -29,7 +29,7 @@ https://mailbakery.com/blog/25-wonderful-examples-of-animated-gifs-in-email-mark
 ### Demo:
 - Since loading image of github is a gif, you now have to move in order to watch the other's repo in homepage
 - (SUPER SECURE!)
-![2018-07-28 05:50:55](https://gfycat.com/UnnaturalFlakyEyelashpitviper)
+![2018-07-28 05:50:55](https://giant.gfycat.com/UnnaturalFlakyEyelashpitviper.gif)
 
 ### Credit for all the resources:
 - https://github.com/buzzfeed/libgif-js   (this is a good library)
