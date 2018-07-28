@@ -32,12 +32,15 @@ for (var i = 0; i < anim_temp.length; i++)
 }
 
 document.onmousemove = function() {
-	console.log("mousemove");
 	timeMove();
 }
 
 document.onscroll = function() {
 	timeMove();
+}
+
+document.onmouseclick = function() {
+	allStop();
 }
 
 function timeMove()

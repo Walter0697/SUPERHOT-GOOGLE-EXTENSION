@@ -18,7 +18,7 @@ https://mailbakery.com/blog/25-wonderful-examples-of-animated-gifs-in-email-mark
 
 ### Problem discovered:
 - Some that are not css animation or standard video format could be difficult to pause
-- Starting time could be slow considering it needs to check everything when initializing it
+- Starting time could be slow considering it needs to check everything when initializing it (well, no way to solve this anyway)
 - New element for webpage might not work if I don't try to update it
 - Pages that have hidden gif image might not work
 - Many problems like this extension don't actually work at all
@@ -27,7 +27,9 @@ https://mailbakery.com/blog/25-wonderful-examples-of-animated-gifs-in-email-mark
 - Disable this extension when you are working seriously 
 
 ### Demo:
-- Will do it later 
+- Since loading image of github is a gif, you now have to move in order to watch the other's repo in homepage
+- (SUPER SECURE!)
+![2018-07-28 05:50:55](https://gfycat.com/UnnaturalFlakyEyelashpitviper)
 
 ### Credit for all the resources:
 - https://github.com/buzzfeed/libgif-js   (this is a good library)
