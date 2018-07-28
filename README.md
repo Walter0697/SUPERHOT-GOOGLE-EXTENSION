@@ -32,7 +32,6 @@ https://mailbakery.com/blog/25-wonderful-examples-of-animated-gifs-in-email-mark
 - ![](https://giant.gfycat.com/UnnaturalFlakyEyelashpitviper.gif)
 - Now you can enjoy the new experience in youtube where you have to move to watch the video
 - ![](https://s1.gifyu.com/images/youtube2.md.gif)
-- and by the way you can also pause these two gif!
 
 ### Credit for all the resources:
 - https://github.com/buzzfeed/libgif-js   (this is a good library)
